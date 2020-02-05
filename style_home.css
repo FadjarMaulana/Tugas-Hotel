@@ -1,0 +1,51 @@
+.carousel-item{
+height: 600px;
+}
+.wow{
+    margin-top: -300px;
+    margin-left: 30px;
+    position: absolute;
+}
+/* .gambar{
+    width: 250px;
+    height: 300px;
+}    */
+.card{
+    border:none;
+}
+.card:hover{
+    background-color: rgb(231, 173, 66);
+    color:#fff;
+}
+.rounded-circle{
+    width: 35px;
+    height: 50px;
+    /* color: rgb(231, 173, 66) ; */
+}
+.what{
+    color: rgb(231, 173, 66);
+}
+.gambar1, .gambar2 , .gambar3 , .gambar4{
+    height: 400px;
+    background-size: cover;
+    position: relative;
+    /* overflow: hidden; */
+    margin-right: -15px;
+}
+.text p{
+    position: relative;
+    color:red;
+    font-size: 20px;
+}
+.gambar{
+    height: 320px;
+    width: 350px;
+}
+.halo{
+  /* margin:0 auto; */
+    top:-300px;
+    /* position: relative; */
+}
+.carousel-caption{
+    color: red;
+}
