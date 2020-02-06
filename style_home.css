@@ -1,15 +1,16 @@
 .carousel-item{
-height: 600px;
+/* height: 600px; */
 }
 .wow{
-    margin-top: -300px;
-    margin-left: 30px;
-    position: absolute;
+    /* margin-top: -300px; */
+    /* margin-left: 30px; */
+    /* position: absolute; */
+    margin:0  auto;
 }
-/* .gambar{
+.gambar{
     width: 250px;
     height: 300px;
-}    */
+}   
 .card{
     border:none;
 }
@@ -34,8 +35,9 @@ height: 600px;
 }
 .text p{
     position: relative;
-    color:red;
+    color:#fff;
     font-size: 20px;
+    margin: 0 auto;
 }
 .gambar{
     height: 320px;
@@ -47,5 +49,15 @@ height: 600px;
     /* position: relative; */
 }
 .carousel-caption{
-    color: red;
+    color:#fff;
+}
+.gambartesti{
+    width: 80px;
+    height: 50px;
+}
+.img-text, .img-text2, .img-text3, .img-text4{
+    /* top: 280px; */
+    /* left: 20%; */
+    color:#fff !important;
+    font-weight: bold !important;
 }
